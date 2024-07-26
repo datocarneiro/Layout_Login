@@ -1,8 +1,9 @@
 # ***Tela de Login***
 
-Projeto simples com tela de login
+Projeto simples com um layout base de uma tela de login
 
-estamos usando um servidor local com flask 
+para visualizar e conseguir aplicar ajuste, estamos usando o framework FLASK com servidor local com
+
 
 intruções: 
 ## intalar dependencia:
